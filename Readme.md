@@ -26,3 +26,4 @@ In this query I have not apply the JWT authentication because it apply on all us
 3. user wise ordering summary = /api/order/user-wise-order-summary
 4. products which are sold less than 3 times = /api/order/product-sold-lessthan-3times
 
+Project created 4 tables user, order, order_item, cart which are manage all the data. I have not created any product table i have use directly random product_id.
